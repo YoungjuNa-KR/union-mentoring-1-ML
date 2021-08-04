@@ -3,8 +3,8 @@
 ---------------------------
 ## Project 0. Pytorch Tutorial
 
-** CIFAR10 데이터셋을 이용하여 분류 문제에 적합한 모델을 찾아 특정 시간 내에 80% 이상의 정확도를 갖는 모델을 학습한다.
-** Dataset, DataLoader, Loss, Optimizer 등 Pytorch 클래스의 동작 원리를 알아본다.
+* CIFAR10 데이터셋을 이용하여 분류 문제에 적합한 모델을 찾아 특정 시간 내에 80% 이상의 정확도를 갖는 모델을 학습한다.
+* Dataset, DataLoader, Loss, Optimizer 등 Pytorch 클래스의 동작 원리를 알아본다.
 
 
 -------------------------------------
