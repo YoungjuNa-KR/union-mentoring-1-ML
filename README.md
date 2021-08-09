@@ -20,3 +20,10 @@
 * CAM 논문 및 grad-CAM의 논문을 읽고 원리와 둘 간의 차이점에 대해서 분석한다.
 * CAM을 구현한다.
 * grad-CAM을 구현한다.
+
+------------------------------------
+## Project 3. Weight pruning
+
+*  Unstructured Weight Pruning 기법을 이용하여 Neural Network에 Compression을 적용한다.
+*  Pytorch의 가중치를 다루는 방법을 익힌다.
+*  code의 중복을 없애기 위해 bash shell을 사용하여 학습을 구조화한다.
