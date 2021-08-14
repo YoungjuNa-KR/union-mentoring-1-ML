@@ -27,3 +27,6 @@
 *  Unstructured Weight Pruning 기법을 이용하여 Neural Network에 Compression을 적용한다.
 *  Pytorch의 가중치를 다루는 방법을 익힌다.
 *  code의 중복을 없애기 위해 bash shell을 사용하여 학습을 구조화한다.
+
+![accuracy_plot2](https://user-images.githubusercontent.com/45136186/129435196-8d561c57-a851-4ba5-aa86-296553e864b9.png)
+
